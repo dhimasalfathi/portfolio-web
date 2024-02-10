@@ -389,6 +389,10 @@ article .icon {
     border-color: rgb(163, 163, 163);
 }
 
+.article-detail {
+    justify-content: left;
+}
+
 
 /* CONTACT */
 
@@ -396,7 +400,7 @@ article .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: 120vh;
 }
 
 .contact-info-upper-container {
